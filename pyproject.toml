@@ -1,0 +1,14 @@
+[project]
+name = "fingertips-cancer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fingertips-py>=0.4.2",
+    "matplotlib>=3.10.0",
+    "pandas>=2.2.3",
+    "pydeck>=0.9.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.41.1",
+]
